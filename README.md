@@ -1,6 +1,6 @@
 # Miracle Pills
 
-An application solely to practice Xcode and Swift.
+An application solely to practice Xcode, UIKit, and Swift.
 
 # What I Learned
 
